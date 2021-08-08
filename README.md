@@ -23,6 +23,6 @@ This is the Challenge 5 of the Bootcamp
 
 
 ## Three business recommendations to the CEO
-### 1. The urban cities are the ones that create the most profit. We need to focus on those ones. 
-### 2. Send more drivers to the Urban cities, this is where the highest fares are.
-### 3. Maybe increase the fare price to the rural areas so that it can math up the urban and the suburban. 
+### 1. The urban cities are the ones that create the less profit. The fares are huge! 
+### 2. Send more drivers to the Rural cities, this is where the fares are the lowest so profits are higher.
+### 3. Maybe decrease the fare price to the urban areas so that it can math up the rural and the suburban. 
